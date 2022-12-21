@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/LucasXvr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasxvr&show_icons=true&theme=transparent" width="45%">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxvr&show_icons=true&theme=transparent" width="45%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasxvr&show_icons=true&theme=transparent" width="45%" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxvr&show_icons=true&theme=transparent" width="40%">
     </div>
   
  ## Tecnologias
