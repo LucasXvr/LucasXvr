@@ -14,7 +14,7 @@
   <a href="https://www.postgresql.org/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><a/>
 </div>
 
-## Redes Sociais
+## Contatos
 
 <div align="center"> 
   <a href = "mailto: lucasxavier523@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
