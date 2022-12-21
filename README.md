@@ -10,7 +10,8 @@
  
 <div align="center" style="display: inline_block"> 
   <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
-  
+  <a href="https://www.mysql.com/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><a/>
+  <a href="https://www.postgresql.org/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><a/>
 </div>
 
 ## Redes Sociais
