@@ -11,6 +11,7 @@
 <div align="center" style="display: inline_block"> 
   <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="50" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
   <a href="https://www.microsoft.com/br/"> <img align="center" alt="Kyuorhan-csharp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><a/>
+  <a href="https://www.microsoft.com/br/"> <img align="center" alt="Kyuorhan-dotnetcore" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><a/>
   <a href="https://www.mysql.com/"> <img align="center" alt="Kyuorhan-Mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><a/>
   <a href="https://www.postgresql.org/"> <img align="center" alt="Kyuorhan-Mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><a/>
 </div>
