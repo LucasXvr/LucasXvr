@@ -14,6 +14,7 @@
   <a href="https://www.microsoft.com/br/"> <img align="center" alt="Kyuorhan-dotnetcore" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><a/>
   <a href="https://www.mysql.com/"> <img align="center" alt="Kyuorhan-Mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><a/>
   <a href="https://www.postgresql.org/"> <img align="center" alt="Kyuorhan-Mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><a/>
+  <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><a/>
 </div>
 
 ## Contatos
