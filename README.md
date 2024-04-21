@@ -1,10 +1,15 @@
-# 👋 Oi, Bem-Vindo ao meu GitHub!
+# Hi there! 👋
 
-<div align="center">
-  <a href="https://github.com/alepmedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasxvr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxvr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I'm Lucas Xavier, a software developer passionate about integrating APIs and learning new technologies.
+
+## About Me
+<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxvr&layout=compact&langs_count=7&theme=dark"/>
+
+- 💼 Currently working on integrating APIs
+- 🌱 Learning .NET Core
+- 👯 Looking to collaborate on web development projects
+- 📫 Reach me at lucasxavier523@gmail.com
+- 📄 Check out my experiences on [LinkedIn](https://www.linkedin.com/in/lucas-xavier-89a44120b/)
 
 ## 🚀 Tecnologias
 
