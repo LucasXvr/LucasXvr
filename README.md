@@ -11,7 +11,7 @@ I'm Lucas Xavier, a software developer passionate about integrating APIs and lea
 - 📫 Reach me at lucasxavier523@gmail.com
 - 📄 Check out my experiences on [LinkedIn](https://www.linkedin.com/in/lucas-xavier-89a44120b/)
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <div align="center">
   <a href="https://www.embarcadero.com/br/">
