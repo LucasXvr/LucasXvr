@@ -3,7 +3,7 @@
 I'm Lucas Xavier, a software developer passionate about integrating APIs and learning new technologies.
 
 ## About Me
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxvr&layout=compact&langs_count=7&theme=dark"/>
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxvr&layout=compact&langs_count=7&theme=dark"/>
 
 - 💼 Currently working on integrating APIs
 - 🌱 Learning .NET Core
