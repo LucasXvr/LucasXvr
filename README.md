@@ -1,14 +1,14 @@
 # Hi there! 👋
 
-I'm Lucas Xavier, a software developer passionate about integrating APIs and learning new technologies.
+I'm Lucas Xavier, a full-stack software developer with a passion for building web applications and integrating APIs. Currently focusing on refining my front-end skills and expanding my knowledge across modern technologies.
 
 ## About Me
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxvr&layout=compact&langs_count=7&theme=dark"/>
 
-- 💼 Currently working on integrating APIs
-- 🌱 Learning .NET Core
-- 👯 Looking to collaborate on web development projects
-- 📫 Reach me at lucasxavier523@gmail.com
+- 💼 Working on Financial Management Dashboard and expanding my skills in full-stack development.
+- 🌱 Learning and building with .NET Core, React, and Node.js.
+- 🔥 Passionate about clean code, user-friendly interfaces, and back-end architecture.
+- 👯 Looking to collaborate on exciting web and mobile development projects.
+- 📫 Feel free to reach me at lucasxavier523@gmail.com
 - 📄 Check out my experiences on [LinkedIn](https://www.linkedin.com/in/lucas-xavier-89a44120b/)
 
 # 🚀 Technologies
