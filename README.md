@@ -35,6 +35,9 @@ I'm Lucas Xavier, a full-stack software developer with a passion for building we
   <a href="https://git-scm.com/">
     <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   </a>
+  <a href="https://azure.microsoft.com/pt-br/"> 
+    <img align="center" alt="Azure DevOps" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+  </a>
 </div>
 
 ## 🌐 Contacts
