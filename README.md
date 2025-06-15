@@ -26,6 +26,9 @@ I'm Lucas Xavier, a full-stack software developer with a passion for building we
   <a href="https://www.mysql.com/">
     <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   </a>
+  <a href="https://www.oracle.com/br/database/"> 
+    <img align="center" alt="Oracle" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"> 
+  </a>
   <a href="https://www.postgresql.org/">
     <img align="center" alt="PostgreSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   </a>
